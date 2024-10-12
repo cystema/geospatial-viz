@@ -1,5 +1,7 @@
 ## Geospatial Data Visualization with GeoPandas and GeoPlot
 
+[Click here to view notebook.](https://cystema.github.io/geospatial-viz/geospatial_visualization.html)
+
 This project demonstrates the use of geopandas and geoplot to visualize geospatial datasets, with tasks ranging from basic plotting to more advanced mapping techniques like kernel density estimation, cartograms, and choropleth maps. It includes examples of visualizing datasets in different formats, such as CSV, JSON, and SHP, and demonstrates how to create interactive and static maps using various projection systems like Web Mercator and Albers.
 Project Tasks:
 
